@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>vip.tuoyang</groupId>
+  <artifactId>soft-update-core</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221019.124917</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20221019124917</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20221019.124917-1</value>
+        <updated>20221019124917</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20221019.124917-1</value>
+        <updated>20221019124917</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20221019.124917-1</value>
+        <updated>20221019124917</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
